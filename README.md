@@ -55,12 +55,14 @@
 
 ###
 
-<p align="left">Hello World!<br>Seja bem-vindo ao meu github!<br>Um prazer te ter aqui, espero que goste dos projetos.<br>Qualquer duvida entre em contato!</p>
+<p align="center">Hello World!<br>Seja bem-vindo ao meu github!<br>Um prazer te ter aqui, espero que goste dos projetos.<br>Qualquer duvida entre em contato! <br><br>"Hello World!<br>Welcome to my GitHub!<br>It's a pleasure to have you here, hope you like the projects.<br>Feel free to contact me if you have any questions!"</p>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBueXV5bnBuanZqMzFtZml4NjY5NGh3bjdmZ3ZseDBmdjRhZHpudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif"  />
+<div align="center">
+  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBueXV5bnBuanZqMzFtZml4NjY5NGh3bjdmZ3ZseDBmdjRhZHpudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif"  />
+</div>
 
 ###
